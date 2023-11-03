@@ -1,0 +1,12 @@
+{
+  "name": "pemrograman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tugas6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node tugas6.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
